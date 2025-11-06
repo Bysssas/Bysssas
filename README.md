@@ -1,7 +1,7 @@
 # Hi, I'm Nicole! 👋
 
 I am a passionate IT student at Xavier University - Ateneo de Cagayan, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
-![<Bysssas>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<Bysssas>'s Stats](https://github-readme-stats.vercel.app/api?username=<Bysssas>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 - 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at Xavier University.
@@ -21,4 +21,7 @@ I am a passionate IT student at Xavier University - Ateneo de Cagayan, driven by
 - 🌟 Completed Git & GitHub Setup 2024
 - 🔭 I’m currently working on my final API project.
 
+## Fun Fact!
+- I LOVE FAIRY TAIL SO MUCH
+- ERZA SCARLET MY GOAT SINCE I WAS 5 DAWG
 Thanks for stopping by!
